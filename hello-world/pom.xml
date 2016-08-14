@@ -12,6 +12,14 @@
 		<spring.version>3.0.5.RELEASE</spring.version>
 	</properties>
 
+        <distributionManagement>
+         <repository>
+          <id>my internal repo</id>
+            <name>Nexus</name>
+            <url>http://192.168.1.95:9090/nexus/content/groups/public</url>
+         </repository>
+       </distributionManagement>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
