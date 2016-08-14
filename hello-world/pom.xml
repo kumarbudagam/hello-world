@@ -4,8 +4,8 @@
 	<groupId>com.barclays.barclaycard</groupId>
 	<artifactId>testproject</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
-	<name>Spring 2 MVC</name>
+	<version>2.0</version>
+	<name>Sample Project</name>
 	
 	<properties>
 		<jdk.version>1.6</jdk.version>
