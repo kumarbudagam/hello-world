@@ -18,7 +18,7 @@
 <distributionManagement>
   <repository>
     <id>hello-world</id>
-    <url>http://192.168.1.95:9090/nexus/content/repositories/hello-world</url>
+    <url>http://192.168.1.108:9090/nexus/content/repositories/hello-world</url>
   </repository>
 </distributionManagement>
 	
